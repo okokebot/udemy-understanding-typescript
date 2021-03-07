@@ -1,5 +1,15 @@
 {
+  "name": "udemy-understanding-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": "git@github_okokebot:okokebot/udemy-understanding-typescript.git",
+  "author": "okokebot <okokebot@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^4.2.2"
+    "typescript": "^4.2.2",
+    "lite-server": "^2.6.1"
   }
 }
